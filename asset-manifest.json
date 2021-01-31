@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.69f8a289.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.4cc93344.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.4cc93344.chunk.js.map",
+    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.382ca033.js",
+    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.382ca033.js.map",
+    "static/js/2.91e60e06.chunk.js": "/React-Portfolio/static/js/2.91e60e06.chunk.js",
+    "static/js/2.91e60e06.chunk.js.map": "/React-Portfolio/static/js/2.91e60e06.chunk.js.map",
+    "index.html": "/React-Portfolio/index.html",
+    "static/css/main.69f8a289.chunk.css.map": "/React-Portfolio/static/css/main.69f8a289.chunk.css.map",
+    "static/js/2.91e60e06.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.91e60e06.chunk.js.LICENSE.txt",
+    "static/media/Cyber-Santa.d559abf9.png": "/React-Portfolio/static/media/Cyber-Santa.d559abf9.png",
+    "static/media/Employee-Directory.525e1516.png": "/React-Portfolio/static/media/Employee-Directory.525e1516.png",
+    "static/media/Face.b4b5c77e.jpg": "/React-Portfolio/static/media/Face.b4b5c77e.jpg",
+    "static/media/Javascript-Quiz.20d5a43f.png": "/React-Portfolio/static/media/Javascript-Quiz.20d5a43f.png",
+    "static/media/Resume.3e5c99c2.pdf": "/React-Portfolio/static/media/Resume.3e5c99c2.pdf",
+    "static/media/Rick-Morty.2230028e.png": "/React-Portfolio/static/media/Rick-Morty.2230028e.png",
+    "static/media/Weather-Dashboard.ab7ccc1a.png": "/React-Portfolio/static/media/Weather-Dashboard.ab7ccc1a.png",
+    "static/media/Work-Day-Scheduler.55471dcd.png": "/React-Portfolio/static/media/Work-Day-Scheduler.55471dcd.png",
+    "static/media/index.css": "/React-Portfolio/static/media/background3.2abc6d2c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.382ca033.js",
+    "static/js/2.91e60e06.chunk.js",
+    "static/css/main.69f8a289.chunk.css",
+    "static/js/main.4cc93344.chunk.js"
+  ]
+}
