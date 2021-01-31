@@ -1,5 +1,5 @@
 import React from "react";
-import headshot from "../../assets/images/Face.png";
+import headshot from "../../assets/images/Face.jpg";
 
 function About () {
     return (
