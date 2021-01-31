@@ -15,7 +15,7 @@ function Contact(props) {
                                     Phone<i className="fa fa-phone" aria-hidden="true"></i>
                                 </a>
                                 <a href="mailto:adellis1@gmail.com" className="list-group-item list-group-action">
-                                    Phone<i className="fa fa-envelope" aria-hidden="true"></i>
+                                    Email<i className="fa fa-envelope" aria-hidden="true"></i>
                                 </a>
                                 <a href="https://github.com/Adellis95" target="_blank" rel="noopener noreferrer" className="list-group-item list-group-item-action">
                                     Github<i className="fa fa-github" aria-hidden="true"></i>
