@@ -20,7 +20,7 @@ function Contact(props) {
                                 <a href="https://github.com/Adellis95" target="_blank" rel="noopener noreferrer" className="list-group-item list-group-item-action">
                                     Github<i className="fa fa-github" aria-hidden="true"></i>
                                 </a>
-                                <a href="https://www.linkedin.com/in/austin-ellis-969b8517a/" target="_blank" rel="noopener noreferrer" className="list-group-item list-group-item-action">
+                                <a href="https://www.linkedin.com/in/Austin-David-Ellis" target="_blank" rel="noopener noreferrer" className="list-group-item list-group-item-action">
                                     LinkedIn<i className="fa fa-linkedin-square" aria-hidden="true"></i>
                                 </a>
                                 <a href="https://twitter.com/adellis95" target="_blank" rel="noopener noreferrer" className="list-group-item list-group-item-action">
